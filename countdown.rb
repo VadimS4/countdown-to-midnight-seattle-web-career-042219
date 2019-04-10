@@ -1,5 +1,8 @@
 #write your code here
 
-def countdown(10)
+def countdown(integer)
   
+    puts "#{integer} SECOND(S)"
+    integer -= 1
+  end
 end
